@@ -63,7 +63,7 @@ public class Oot20242155_Mid1 {
             c_score++;
         }
         return new int[] {p_score, c_score};
-    }  
+    }
 
 
     public static void main(String[] args) {
