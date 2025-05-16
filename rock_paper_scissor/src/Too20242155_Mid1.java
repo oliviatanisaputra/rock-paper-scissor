@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.Random;
 //import java.util;
 
-public class Oot20242155_Mid1 {
+public class Too20242155_Mid1 {
     static int player_input(Scanner s) {
         // Ask for player's input and put it in p_input (string)
         System.out.println("Choices: rock, paper, scissor, quit");

@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.Random;
 import java.util.Arrays;
 
-public class Oot20242155_Mid2 {
+public class Too20242155_Mid2 {
     static Scanner scanner = new Scanner(System.in); // global variable/object
 
     static int player_input(int[] life) {
